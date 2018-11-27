@@ -8,6 +8,7 @@ def speak_to_grandma(phrase)
   elsif !(phrase.upcase)
   puts "HUH?! SPEAK UP, SONNY!"
 end
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
